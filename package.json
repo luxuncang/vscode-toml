@@ -29,11 +29,13 @@
             {
                 "id": "toml",
                 "aliases": [
-                    "TOML"
+                    "TOML",
+                    "LOCK"
                 ],
                 "extensions": [
                     ".toml",
-                    ".tml"
+                    ".tml",
+                    ".lock"
                 ],
                 "filenames": [
                     "Cargo.lock",
